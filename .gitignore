@@ -1,0 +1,15 @@
+# C++ build folders
+build/
+**/build/
+
+# Python venv / cache
+.venv/
+**/.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# PyTorch checkpoints 
+*.pt
